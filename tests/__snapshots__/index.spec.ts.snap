@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test of \`yarn pack --dry-run --json\` 1`] = `""`;
+
+exports[`Snapshot test of \`yarn pack --dry-run --json\` 2`] = `
+"{\\"location\\":\\"LICENSE\\"}
+{\\"location\\":\\"Readme.md\\"}
+{\\"location\\":\\"index.js\\"}
+{\\"location\\":\\"package.json\\"}
+"
+`;

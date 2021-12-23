@@ -1,0 +1,18 @@
+{
+	System: ['OS', 'CPU', 'Memory', 'Container', 'Shell'],
+	Binaries: ['Node', 'Yarn', 'npm'],
+	Browsers: [
+		'Brave Browser',
+		'Chrome',
+		'Chrome Canary',
+		'Chromium',
+		'Edge',
+		'Firefox',
+		'Firefox Developer Edition',
+		'Firefox Nightly',
+		'Internet Explorer',
+		'Safari',
+		'Safari Technology Preview',
+	],
+	npmGlobalPackages: true,
+}
